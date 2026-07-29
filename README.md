@@ -229,8 +229,3 @@ cohort:
 
 > Nunes L, *et al.* Prognostic genome and transcriptome signatures in
 > colorectal cancers. *Nature*. 2024;633:137-146.
-
-The numbered, study-oriented layout was informed by the public
-[`asgda/c_RCDI_prognostic_risk_model`](https://github.com/asgda/c_RCDI_prognostic_risk_model)
-repository, while adding explicit data contracts, environment documentation,
-provenance and interpretation boundaries for this study.
