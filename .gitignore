@@ -37,7 +37,7 @@ module05_06_loocv_results/
 survival_combined_R_results/
 crc_heterogeneity_data/
 clinical_data.tsv
-colorectal_cancer_all_genes.txt
+#colorectal_cancer_all_genes.txt
 
 # Runtime files
 __pycache__/
