@@ -1,4 +1,6 @@
-# Genome-First NMF Subtyping of Colorectal Cancer
+# A Genome-First NMF Framework for Colorectal Cancer Subtyping
+Authors: Avik Sengupta, Rahul Kumar* (*=correspondence)
+Affiliation: Computational Genomics & Transcriptomics Lab, Indian Institute of Technology, Hyderabad, Kandi, Sangareddy, Telangana, India-502284
 
 This repository contains the analysis code supporting a genome-first
 classification of colorectal cancer (CRC) from recurrent somatic events.
@@ -205,15 +207,6 @@ After label generation, scripts 06-25 can be run in numerical order. Scripts
   equivalent external WGS validation because only 7 of 31 discovery SV
   features are available.
 - Intermediate and final result directories are excluded by `.gitignore`.
-
-## Statistical scope
-
-The scripts reproduce discovery-cohort associations. They do not establish a
-clinically validated prognostic biomarker or treatment-selection tool.
-Predicted drug response is derived from cell-line-trained models and should be
-interpreted as hypothesis-generating. The TCGA analysis does not reproduce the
-discovery survival separation and must not be described as independent
-prognostic validation.
 
 ## Provenance
 
