@@ -1,0 +1,31 @@
+# CNV module PASSENGER_GENES (27 genes) — this is the list the manuscript's
+# "removed blacklisted genes (27 genes)" refers to. See BLACKLISTED_GENES.md
+# for the SNV (21-gene) and SV (20-gene) lists, which differ from this one,
+# and for the separate CNV-only substring blacklist (OR/LOC/LINC, 7 genes).
+TTN
+MUC16
+OBSCN
+DNAH5
+DNAH6
+DNAH7
+DNAH8
+DNAH9
+DNAH10
+DNAH11
+DNAH14
+DNAH17
+CSMD1
+CSMD3
+RYR1
+RYR2
+RYR3
+SYNE1
+SYNE2
+USH2A
+FLG
+PCLO
+XIRP2
+FAT3
+FAT4
+LRP1B
+MACROD2
